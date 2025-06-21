@@ -1,4 +1,3 @@
-cat > README.md <<EOF
 # UglylabViewer
 
 **UglylabViewer** is the shared-memory OpenGL/Qt-based visual frontend for the Uglylab simulation framework. It connects to a simulation process and provides real-time rendering, inspection, and control tools for models built using UglylabLib.
